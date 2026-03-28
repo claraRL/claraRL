@@ -5,10 +5,8 @@
 
 ---
 
-## À propos
-Future développeuse passionnée par la conception logicielle et le Web. Actuellement en 2ème année de BUT Informatique à l'IUT de Vélizy, je suis curieuse des nouvelles technologies et de nouvelles connaissances à ajouter à mon arsenal.
-
-## 🛠 Compétences Techniques
+## 🚀 À propos
+Étudiante à l'IUT de Vélizy, je me spécialise dans le **développement d'applications**. Mon parcours mixte entre la biologie et l'informatique m'a dotée d'une grande **adaptabilité**. Passionnée par le tir à l'arc depuis 13 ans, je transpose la **rigueur** et la **précision** de ce sport dans chaque projet logiciel que je conçois.
 
 ### 📱 Développement Logiciel & Mobile
 * **Langages :** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
