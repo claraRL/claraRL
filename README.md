@@ -74,4 +74,4 @@
 
 ## 🔗 Me contacter
 * [LinkedIn](https://www.linkedin.com/in/clara-ralu-leroy)
-* 📧 clara.raluleroy@gmail.com
+* clara.raluleroy@gmail.com
