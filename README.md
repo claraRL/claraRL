@@ -1,4 +1,4 @@
-# Clara RALU--LEROY / README.md
+# Clara RALU--LEROY
 
 Étudiante en BUT Informatique (2e année) Spécialisation : Développement d'Applications
 *À la recherche d'un stage de 2 à 4 mois — Début : 13 Avril 2026*
