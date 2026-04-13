@@ -1,7 +1,7 @@
 # Clara RALU--LEROY
 
 Étudiante en BUT Informatique (2e année) Spécialisation : Développement d'Applications
-*À la recherche d'une alternance d'un an — Début : Septembre 2026*
+*À la recherche d'une alternance d'un an — Début : Septembre 2026 — Rythme : 1 semaine IUT / 1 semaine entreprise*
 
 ---
 
